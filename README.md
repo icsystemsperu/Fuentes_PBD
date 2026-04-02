@@ -1,3 +1,4 @@
+<img src="logo.png" alt="Logo del proyecto" width="200">
 <h1>📂 Fuentes_PBD</h1>
 <p>Repositorio de IC Systems Perú, contiene los PBD para actualizar.</p>
 
